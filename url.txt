@@ -1,0 +1,36 @@
+http://223.6.252.214/weibofun/weibo_list.php?
+apiver=10500&category=weibo_jokes&page=0&page_size=30&max_timestamp=-1&vip=1&platform=iphone&appver=1.6&udid=C0DB3BE4-9CEB-48E5-A278-B7D2D7912343
+
+申请某个日期
+http://223.6.252.214/weibofun/weibo_list.php?
+apiver=10500&category=weibo_jokes&page=0&page_size=30&max_timestamp=-1&source_type=2&base_timestamp=1390579200&vip=1&platform=iphone&appver=1.6&udid=C0DB3BE4-9CEB-48E5-A278-B7D2D7912343
+往下拉
+http://223.6.252.214/weibofun/weibo_list.php?
+apiver=10500&category=weibo_jokes&page=1&page_size=15&max_timestamp=1390619520&source_type=2&base_timestamp=1390579200&vip=1&platform=iphone&appver=1.6&udid=C0DB3BE4-9CEB-48E5-A278-B7D2D7912343
+
+申请2014-2-25
+http://223.6.252.214/weibofun/weibo_list.php?apiver=10500&category=weibo_jokes&page=0&page_size=30&max_timestamp=-1&source_type=2&base_timestamp=1393257600&vip=1&platform=iphone&appver=1.6&udid=C0DB3BE4-9CEB-48E5-A278-B7D2D7912343
+1393257600 --  2014/2/25 上午00:00:00
+往下拉
+http://223.6.252.214/weibofun/weibo_list.php?apiver=10500&category=weibo_jokes&page=1&page_size=15&max_timestamp=1393294800&source_type=2&base_timestamp=1393257600&vip=1&platform=iphone&appver=1.6&udid=C0DB3BE4-9CEB-48E5-A278-B7D2D7912343
+1393294800 - 2014/2/25 上午10:20:00 标志上一条http的最后一条段子时间
+1393257600 - 2014/2/25 上午0:00:00
+
+
+》》》》》》max_timestamp  标志上一条http的最后一条段子时间
+》》》》》》base_timestamp  选择日期模式产生的一个时间，超过该时间（上拉）则会跳回到今天
+
+http://223.6.252.214/weibofun/weibo_list.php?apiver=10500&category=weibo_jokes&page=2&page_size=15&max_timestamp=1393257600&source_type=2&base_timestamp=1393257600&vip=1&platform=iphone&appver=1.6&udid=C0DB3BE4-9CEB-48E5-A278-B7D2D7912343
+
+1393257600
+1393257600
+
+--------------------
+http://223.6.252.214/weibofun/weibo_list.php?
+apiver=10500&category=weibo_pics&page=0&page_size=30&max_timestamp=-1&vip=1&platform=iphone&appver=1.6&udid=C0DB3BE4-9CEB-48E5-A278-B7D2D7912343
+-----------------------
+http://223.6.252.214/weibofun/weibo_list.php?
+apiver=10500&category=weibo_videos&page=0&page_size=30&max_timestamp=-1&vip=1&platform=iphone&appver=1.6&udid=C0DB3BE4-9CEB-48E5-A278-B7D2D7912343
+-------------------
+http://223.6.252.214/weibofun/weibo_list.php?
+apiver=10500&category=weibo_girls&page=0&page_size=30&max_timestamp=-1&vip=1&platform=iphone&appver=1.6&udid=C0DB3BE4-9CEB-48E5-A278-B7D2D7912343

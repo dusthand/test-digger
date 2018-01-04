@@ -1,0 +1,2 @@
+
+"sss".startswith("s")
